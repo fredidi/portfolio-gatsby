@@ -1,4 +1,5 @@
 module.exports = {
+    pathPrefix: "/portfolio-gatsby",
     siteMetadata: {
         siteUrl: "https://www.fredriklam.com",
         title: ".NET Developer",
