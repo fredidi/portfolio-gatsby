@@ -1,0 +1,608 @@
+{
+    "title": "freelencer-home",
+    "content": [
+        {
+            "id": "freelencer-home-hero",
+            "section": "hero-section",
+            "headings": [
+                {
+                    "content": "Hi, I’m <span>Fredrik</span><br><span class='span'> .NET Developer</span>"
+                }
+            ],
+            "texts": [
+                {
+                    "content": "I am looking for LIA during week 6-20, 2023-02-06 - 2023-05-21."
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/slider/fredrik1.png",
+                    "alt": "Personal Portfolio Images"
+                }
+            ],
+            "buttons": [
+                {
+                    "id": 1,
+                    "path": "https://drive.google.com/file/d/1z53AHY0DeYZT8SHdt6RToB0Lpj8PnH5s/view?usp=share_link",
+                    "content": "Download LIA Doc."
+                },
+                {
+                    "id": 2,
+                    "path": "#contact-me",
+                    "content": "Contact me"
+                }
+            ]
+        },
+        {
+            "id": "freelencer-home-about",
+            "section": "about-section",
+            "title": "About Me",
+            "texts": [
+                {
+                    "content": "I am a Junior .NET developer, currenty studying @Teknikhögskolan, Gothenburg(SE)."
+                },
+                {
+                    "content": "\"Failing is a better result than not trying.\""
+                }
+            ]
+        },
+        {
+            "id": "freelencer-home-skill",
+            "section": "skill-section",
+            "title": "Skill",
+            "inner": [
+                {
+                    "id": "freelencer-home-skill-top",
+                    "title": "Primary Skills on",
+                    "items": [
+                        {
+                            "id": 1,
+                            "images": [
+                                {
+                                    "src": "../images/icons/CV_Icons-02.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "images": [
+                                {
+                                    "src": "../images/icons/CV_Icons-03.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "images": [
+                                {
+                                    "src": "../images/icons/CV_Icons-04.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-16.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "images": [
+                                {
+                                    "src": "../images/icons/CV_Icons-09.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "images": [
+                                {
+                                    "src": "../images/icons/CV_Icons-05.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "images": [
+                                {
+                                    "src": "../images/icons/CV_Icons-08.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 8,
+                            "images": [
+                                {
+                                    "src": "../images/icons/CV_Icons-10.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 9,
+                            "images": [
+                                {
+                                    "src": "../images/icons/CV_Icons-14.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10,
+                            "images": [
+                                {
+                                    "src": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "freelencer-home-skill-right",
+                    "title": "Secondary Skills on",
+                    "items": [
+                        {
+                            "id": 2,
+                            "images": [
+                                {
+                                    "src": "../images/icons/CV_Icons-15.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "images": [
+                                {
+                                    "src": "../images/icons/CV_Icons-13.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "images": [
+                                {
+                                    "src": "../images/icons/CV_Icons-11.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "images": [
+                                {
+                                    "src": "../images/icons/CV_Icons-12.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "images": [
+                                {
+                                    "src": "../images/icons/CV_Icons-16.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "images": [
+                                {
+                                    "src": "../images/icons/CV_Icons-17.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 8,
+                            "images": [
+                                {
+                                    "src": "../images/icons/CV_Icons-06.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 9,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-04.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10,
+                            "images": [
+                                {
+                                    "src": "../"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "freelencer-home-education",
+            "section": "education-section",
+            "title": "Education",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Teknikhögskolan",
+                    "category": "2021 - 2023",
+                    "texts": [
+                        {
+                            "content": "Courses:"
+                        },
+                        {
+                            "content": "Programming with C# / Databases with T-SQL / Frontend / Backend / Data access in .NET / Cloud-based applications / LIA 1 / Produce and deliver software / LIA 2 / Master thesis."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/education/CV_Logos-02.png"
+                        }
+                    ],
+                    "path": "https://www.teknikhogskolan.se"
+                },
+                {
+                    "id": 2,
+                    "title": "Udemy",
+                    "category": "2021 - present",
+                    "texts": [
+                        {
+                            "content": "Online Course"
+                        },
+                        {
+                            "content": "\"Complete guide to building an app with .Net Core and React\" / \"Notes of Complete guide to building an app ith .Net Core and React\""
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/education/udemy.png"
+                        }
+                    ],
+                    "path": "https://www.udemy.com/"
+                },
+                {
+                    "id": 3,
+                    "title": "Pluralsight",
+                    "category": "2021 - present",
+                    "texts": [
+                        {
+                            "content": "Online Course"
+                        },
+                        {
+                            "content": "\"Notes of Complete guide to building an app ith .Net Core and React\"!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/education/pluralsight.jpg"
+                        }
+                    ],
+                    "path": "https://www.pluralsight.com/"
+                },
+                {
+                    "id": 4,
+                    "title": "ICA Skolan",
+                    "category": "2013 - 2014",
+                    "texts": [
+                        {
+                            "content": "Butiksledarutbildning (BLU) / Store Manager Training"
+                        },
+                        {
+                            "content": "The store manager training is aimed at employees who have the ambition to get a position of responsibility in an ICA store, become an ICA dealer(ICA Handlare) or further develop within Ica in another way."
+                        },
+                        {
+                            "content": "Training consists, among other things, budget, marketing, assortment and price strategies."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/education/ica-skolan-blu.png"
+                        }
+                    ],
+                    "path": "https://www.ica.se/butiker/nara/goteborg/ica-nara-toppen-goteborg-1712/start/"
+                },
+                {
+                    "id": 5,
+                    "title": "Göteborgregionens Tekniska Gymnasium",
+                    "category": "2009 - 2012",
+                    "texts": [
+                        {
+                            "content": "Technology program specialization University. +1100p in additional to The Swedish National High School Education's 2500p for a broader base for further studies."
+                        },
+                        {
+                            "content": "Additional Courses:"
+                        },
+                        {
+                            "content": "CAD / C++ / Electrical learning / UF / Industrial Construction / Physics B / Maths D+E / Internship 1, 2, 3"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/education/gtg.png"
+                        }
+                    ],
+                    "path": "https://www.gtg.se/"
+                }
+            ]
+        },
+        {
+            "id": "freelencer-home-portfolio",
+            "section": "portfolio-section",
+            "title": "Portfolio",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "BDD Gherkin Specflow",
+                    "category": "C# / Gherkin / API / GraphQL / Postman",
+                    "texts": [
+                        {
+                            "content": "Nonsultant is a company within e-mail security, software development and cloud computing. Specialized within the Microsoft ecosystem (.NET and Azure)."
+                        },
+                        {
+                            "content": "Me and my classmate developed this project with our mentor. It syncs and updates Test Result statuses on Azure DevOps, Github and Monday as services while reading Gherkin Feature- and Test files."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/nonsultant.png"
+                        }
+                    ],
+                    "path": "#",
+                    "likeCount": 600
+                },
+                {
+                    "id": 2,
+                    "title": "Pixabay Remake",
+                    "category": "REST-API / HTML / JavaScript / CSS",
+                    "texts": [
+                        {
+                            "content": "School Project - Frontend"
+                        },
+                        {
+                            "content": "Responsive website using Pixabay API. Search something, choose a color and hit Enter. Voila!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/pixabay.png"
+                        }
+                    ],
+                    "path": "https://fredidi.github.io/Pixabay3.11/",
+                    "likeCount": 750
+                },
+                {
+                    "id": 3,
+                    "title": "Todo-app",
+                    "category": "HTML / JavaScript / CSS",
+                    "texts": [
+                        {
+                            "content": "School Project - Frontend"
+                        },
+                        {
+                            "content": "Responsive website, Todo-app. Add your todo's and mark them as completed. Clear the list. Should add LocalStorage."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/todos.png"
+                        }
+                    ],
+                    "path": "https://fredidi.github.io/TodoApp2.1/",
+                    "likeCount": 630
+                },
+                {
+                    "id": 4,
+                    "title": "First portfolio",
+                    "category": "HTML / JavaScript / CSS",
+                    "texts": [
+                        {
+                            "content": "School Project - Frontend"
+                        },
+                        {
+                            "content": "Responsive website, CV. My first ever self-made website using only HTML & CSS."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio.png"
+                        }
+                    ],
+                    "path": "https://fredidi.github.io/FredrikLam_CV/",
+                    "likeCount": 360
+                },
+                {
+                    "id": 5,
+                    "title": "Animal Shop",
+                    "category": "C# / .NET ",
+                    "texts": [
+                        {
+                            "content": "School Assignment - C#"
+                        },
+                        {
+                            "content": "Console Application. Menu with options to see how many available pets are in store. If you \"buy\" a pet, you get the information about it."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/"
+                        }
+                    ],
+                    "path": "https://github.com/fredidi/AnimalShop",
+                    "likeCount": 280
+                },
+                {
+                    "id": 6,
+                    "title": "Garage",
+                    "category": "C# / .NET",
+                    "texts": [
+                        {
+                            "content": "School Assignment - C#"
+                        },
+                        {
+                            "content": "Console Application, Garage simulator. Enter information such as type of transport you want to park, the color, license plate. There are maximum limit of available parking lots and you get information of it."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/"
+                        }
+                    ],
+                    "path": "https://github.com/ahallerod/Garage",
+                    "likeCount": 600
+                }
+            ]
+        },
+        {
+            "id": "freelencer-home-experience",
+            "section": "experience-section",
+            "title": "Experience",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Lumeo Technology",
+                    "category": "January, 2017 - present",
+                    "texts": [
+                        {
+                            "content": "Co-Founder. Operative Inactive."
+                        },
+                        {
+                            "content": "To mention some areas I got to work with: Accounting, B2B/B2C Sales, E-commerce, Legal, Marketing, Visual Content, Multiple e-commerce sites etc.."
+                        },
+                        {
+                            "content": "I decided to pause all operative work at LumeoTech to pursue with my studies. The company is still going strong with Leo who co-founded the company. Currently, he is working together with our co-workers and partners."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/experience/lumeotech.png"
+                        }
+                    ],
+                    "path": "https://www.lumeotech.com"
+                },
+                {
+                    "id": 2,
+                    "title": "Bemannica",
+                    "category": "January, 2021 - February, 2022",
+                    "texts": [
+                        {
+                            "content": "Retail Sales Consultant."
+                        },
+                        {
+                            "content": "Bemannica is a modern staffing and recruitment company that helps ICA stores with tailored expertise."
+                        },
+                        {
+                            "content": "I joined the consultant-team of Bemannica early 2021 as Part-Time job. I got offered different stores to work for both in Gothenburg as well as a bit outside the area. To mention some areas I got to work with: Cashier, Put items on the shelf, Customer-Service."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "https://bemannica.se/wp-content/uploads/2018/03/logotyp-retina.png"
+                        }
+                    ],
+                    "path": "https://www.bemannica.se"
+                },
+                {
+                    "id": 3,
+                    "title": "Matöppet",
+                    "category": "June, 2020 - September, 2022",
+                    "texts": [
+                        {
+                            "content": "Substitute Store Manager"
+                        },
+                        {
+                            "content": "Matöppet is a chain of grocery stores, which was part of the Bergendahlsgruppen and is run and owned by independent merchants."
+                        },
+                        {
+                            "content": "In Mars 2020, I got an offer as a Store Manager to lead a grocery store. It has 'normal' store as well as their very own bakery. As a Store Manager, I had to lead 14 employees, plan schedules, purchases, marketing, sales among others."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/experience/matoppet.png"
+                        }
+                    ],
+                    "path": "https://www.matoppet.se/butik/furulund/"
+                },{
+                    "id": 2,
+                    "title": "Sony \"SSAP\"",
+                    "category": "October, 2019 - December, 2019",
+                    "texts": [
+                        {
+                            "content": "Start-Up Program"
+                        },
+                        {
+                            "content": "\"At Sony Startup Acceleration Program (SSAP) Europe, we provide the environment and know-how needed to bring your startup to the next level. We know that success is not the work of one individual – but rather a team of motivated and diverse experts sharing the same dream. In the Sony Startup Acceleration Program Europe, we open our doors to early-stage startups in advanced development who have a business concept and need assistance in developing it into a viable business. Sony in Europe is full of experts who are passionate about supporting and enhancing your startup from business acceleration to expansion.\""
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/experience/"
+                        }
+                    ],
+                    "path": "https://sony-startup-acceleration-program-europe.com/testimonials/"
+                },{
+                    "id": 2,
+                    "title": "ICA",
+                    "category": "May, 2012 - February, 2017",
+                    "texts": [
+                        {
+                            "content": "Assistant Sales Manager."
+                        },
+                        {
+                            "content": "To mention some areas I got to work with: Leadership, Purchases, Planning, Business Strategy etc.."
+                        },
+                        {
+                            "content": "Right after I graduated from GTG (High School) I started to work at ICA Toppen. During this period of time I always wanted to develop myself both as a person as well as professional. I asked to go to courses to learn more about the culture of work within ICA. Besides that, I wanted to learn everything attached to my workplace including software programs. I was part of implementing ICA Online for this store as well as setting up system to minimize time-consuming working-methods."
+                        },
+                        {
+                            "content": "In 2013, I got the offer to attend ICA Skolan - Business Management Program. I coudln't be happier as I accepted it. Soon after that, I was able to handle the store as Assistant Store Manager."
+                        },
+                        {
+                            "content": "2016 Q3, I resigned my position at ICA Toppen to start my own company. I stayed for half a year to recruit new people as well as trained them as much as I could before I felt I could leave in ease."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/experience/toppen.png"
+                        }
+                    ],
+                    "path": "https://www.ica.se/butiker/nara/goteborg/ica-nara-toppen-goteborg-1712/start/"
+                }
+            ]
+        },
+        {
+            "id": "freelencer-home-services",
+            "section": "service-section",
+            "title": "Certificate",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Six Sigma Green Belt / Project Management"
+                },
+                {
+                    "id": 2,
+                    "title": "Building an app with .Net Core and React"
+                },
+                {
+                    "id": 3,
+                    "title": "BLU / Business Management"
+                }
+            ]
+        },
+        {
+            "id": "freelencer-home-blog",
+            "section": "blog-section",
+            "title": "Blog"
+        },
+        {
+            "id": "freelencer-home-contact",
+            "section": "contact-section",           
+            
+            "texts": [
+                {
+                    "content": "Looking forward to chat with you."
+                }
+            ]
+        }
+    ]
+}
