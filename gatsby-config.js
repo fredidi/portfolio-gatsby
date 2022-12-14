@@ -3,8 +3,8 @@ module.exports = {
     siteMetadata: {
         siteUrl: "https://www.fredriklam.com",
         title: ".NET Developer",
-        description: "Awesome Gatsby Portfolio",
-        author: "Rainbow IT",
+        description: "I am looking for LIA during week 6-20, 2023-02-06 - 2023-05-21.",
+        author: "",
         siteLanguage: "en",
         image: "banner.jpg",
         titleTemplate: "inbio",
