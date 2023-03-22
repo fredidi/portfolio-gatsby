@@ -11,7 +11,7 @@
             ],
             "texts": [
                 {
-                    "content": "I am looking for LIA during week 6-20, 2023-02-06 - 2023-05-21."
+                    "content": "I am available and looking for LIA/Internship until at least week 20, 2023-05-21, but I'm flexible. I want to focus on Frontend but I'm interested in Fullstack as well."
                 }
             ],
             "images": [
@@ -39,7 +39,7 @@
             "title": "About Me",
             "texts": [
                 {
-                    "content": "I am a Junior .NET developer, currently studying @Teknikhögskolan, Gothenburg(SE)."
+                    "content": "I am a .NET developer, currently studying @Teknikhögskolan, Gothenburg(SE). Graduates June, 2023."
                 },
                 {
                     "content": "I am an entrepreneur who strive to create, develop and add value to the company by always working hard and learn new stuff everyday."
@@ -209,7 +209,7 @@
                             "id": 10,
                             "images": [
                                 {
-                                    "src": "../"
+                                    "src": "../images/icons/icons-03.png"
                                 }
                             ]
                         }
