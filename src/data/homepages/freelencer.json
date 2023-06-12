@@ -6,12 +6,12 @@
             "section": "hero-section",
             "headings": [
                 {
-                    "content": "Hi, I’m <span>Fredrik</span><br><span class='span'> .NET Developer</span>"
+                    "content": "Hi, I’m <span>Fredrik</span><br><span class='span'>Fullstack .NET Developer</span>"
                 }
             ],
             "texts": [
                 {
-                    "content": "I am available and looking for LIA/Internship until at least week 20, 2023-05-21, but I'm flexible. I want to focus on Frontend but I'm interested in Fullstack as well."
+                    "content": "I'm actively searching for a workplace to start my career as a developer and to create value for businesses. I'm interested in a backend or frontend position - or both ^_^"
                 }
             ],
             "images": [
@@ -23,8 +23,8 @@
             "buttons": [
                 {
                     "id": 1,
-                    "path": "https://drive.google.com/file/d/1z53AHY0DeYZT8SHdt6RToB0Lpj8PnH5s/view?usp=share_link",
-                    "content": "Download LIA Doc."
+                    "path": "https://www.linkedin.com/in/lamfredrik/",
+                    "content": "LinkedIn Profile"
                 },
                 {
                     "id": 2,
@@ -39,7 +39,7 @@
             "title": "About Me",
             "texts": [
                 {
-                    "content": "I am a .NET developer, currently studying @Teknikhögskolan, Gothenburg(SE). Graduates June, 2023."
+                    "content": "I am a Fullstack .NET developer, based in Gothenburg(SE). Currently, looking into Mobile / Smartwatch App Dev."
                 },
                 {
                     "content": "I am an entrepreneur who strive to create, develop and add value to the company by always working hard and learn new stuff everyday."
@@ -131,7 +131,7 @@
                             "id": 10,
                             "images": [
                                 {
-                                    "src": ""
+                                    "src": "../images/icons/CV_Icons-19.png"
                                 }
                             ]
                         }
@@ -331,15 +331,87 @@
             "title": "Portfolio",
             "items": [
                 {
+                    "id": 9,
+                    "title": "Restaurang Dubbelgården",
+                    "category": "React.js / TypeScript / Figma / SaSS / Photography / Adobe Illustrator",
+                    "texts": [
+                        {
+                            "content": "Private project - Re-design"
+                        },
+                        {
+                            "content": "Based on client's request, I made a whole new design on Figma. I tried my best having UX in mind. Based on the design, I developed it using React.js with TypeScript and SaSS."
+                        },
+                        {
+                            "content": "In progress.."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/dubbelgarden.png"
+                        }
+                    ],
+                    "path": "#",
+                    "likeCount": 280
+                },
+                {
+                    "id": 8,
+                    "title": "Peer Review",
+                    "category": "React.js / TypeScript / Figma / SaSS / Agile Development",
+                    "texts": [
+                        {
+                            "content": "Project during internship @HiQ"
+                        },
+                        {
+                            "content": "WebApp with SSO. We developed application based on Figma design that was made by UX Designer. Also, I was able to create my first accordion component with lots of failures at first :)."
+                        },
+                        {
+                            "content": "Due to HiQ privacy, I cannot show anything."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/hiq.png"
+                        }
+                    ],
+                    "path": "#",
+                    "likeCount": 280
+                },
+                {
+                    "id": 7,
+                    "title": "Arbetsförmedlingen API",
+                    "category": "C# / ASP.NET Web API / Figma / React.js / XML / CSS",
+                    "texts": [
+                        {
+                            "content": "Project during internship @Jobnet"
+                        },
+                        {
+                            "content": "A solo project. The goal was to automate a repeated task using API to minimize time consument. I created a design on figma following the companys design pattern, developed it on React.js with CSS. To pass the CORS issue, I created my own server to communicate with the API."
+                        },
+                        {
+                            "content": "Due to Jobnet privacy, I cannot show anything."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/jobnet.png"
+                        }
+                    ],
+                    "path": "#",
+                    "likeCount": 280
+                },
+                {
                     "id": 1,
-                    "title": "BDD Gherkin Specflow",
+                    "title": "SpecGurka",
                     "category": "C# / Gherkin / API / GraphQL / Postman",
                     "texts": [
                         {
-                            "content": "Nonsultant is a company within e-mail security, software development and cloud computing. Specialized within the Microsoft ecosystem (.NET and Azure)."
+                            "content": "Project during internship @Nonsultant"
                         },
                         {
-                            "content": "Me and my classmate developed this project with our mentor. It syncs and updates Test Result statuses on Azure DevOps, Github and Monday as services while reading Gherkin Feature- and Test files."
+                            "content": "Me and my classmate developed this project with our mentor. A CLI tool to sync feature files written using Gherkin syntax with a work-system (eg. Azure DevOps, GitHub Issues, Monday)."
+                        },
+                        {
+                            "content": "Our focus was to make it easy to implement new work-system when needed."
                         }
                     ],
                     "images": [
@@ -347,7 +419,7 @@
                             "src": "../images/portfolio/nonsultant.png"
                         }
                     ],
-                    "path": "#",
+                    "path": "https://github.com/Nonsultant/specgurka",
                     "likeCount": 600
                 },
                 {
@@ -469,7 +541,7 @@
                             "content": "To mention some areas I got to work with: Accounting, B2B/B2C Sales, E-commerce, Legal, Marketing, Visual Content, Multiple e-commerce sites etc.."
                         },
                         {
-                            "content": "I decided to pause all operative work at LumeoTech to pursue with my studies. The company is still going strong with Leo who co-founded the company. Currently, he is working together with our co-workers and partners."
+                            "content": "The company is still going strong with Leo who co-founded the company. Currently, he is working together with our co-workers and partners."
                         }
                     ],
                     "images": [
@@ -478,6 +550,75 @@
                         }
                     ],
                     "path": "https://www.lumeotech.com"
+                },
+                {
+                    "id": 8,
+                    "title": "HiQ",
+                    "category": "March, 2023 - May, 2023",
+                    "texts": [
+                        {
+                            "content": "Frontend Developer"
+                        },
+                        {
+                            "content": "A creative tech consulting company that uses innovation and deep technical know-how as cornerstones for building the most outstanding digital solutions in the universe."
+                        },
+                        {
+                            "content": "Been part of agile team working on a project with backend and frontend developers. I was part of the frontend working in React.js/Typescript with Sass based on a Figma design."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/experience/hiq.png"
+                        }
+                    ],
+                    "path": "https://hiq.se/"
+                },
+                {
+                    "id": 7,
+                    "title": "Jobnet",
+                    "category": "February, 2023 - March, 2022",
+                    "texts": [
+                        {
+                            "content": "Fullstack Developer - Internship"
+                        },
+                        {
+                            "content": "Jobnet offers effective recruitment for companies that put their employees and sustainability in focus."
+                        },
+                        {
+                            "content": "Designed web page on Figma. Developed it using React.js and CSS and .NET Web Api, Arbetsförmedlingen API and SOAP XML schemas."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/experience/jobnet.png"
+                        }
+                    ],
+                    "path": "https://jobnet.se/"
+                },
+                {
+                    "id": 6,
+                    "title": "Nonsultant",
+                    "category": "October, 2022 - December, 2022",
+                    "texts": [
+                        {
+                            "content": "Backend Developer - Internship"
+                        },
+                        {
+                            "content": "Nonsultant is a company within teaching, software development and cloud computing. Specialized within the Microsoft ecosystem (.NET and Azure)."
+                        },
+                        {
+                            "content": "I had the priveledge to have this internship together with my classmate. Together, we developed a Console Application mainly reading Gherkin files and based on status, sync it on Services* using respective API's. On the console, we then see if files has errors, changes/updates and success."
+                        },
+                        {
+                            "content": "Services: Monday, Azure DevOps, Github"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/experience/nonsultant.png"
+                        }
+                    ],
+                    "path": "https://nonsultant.com/"
                 },
                 {
                     "id": 2,
@@ -522,8 +663,9 @@
                         }
                     ],
                     "path": "https://www.matoppet.se/butik/furulund/"
-                },{
-                    "id": 2,
+                },
+                {
+                    "id": 4,
                     "title": "Sony \"SSAP\"",
                     "category": "October, 2019 - December, 2019",
                     "texts": [
@@ -536,12 +678,13 @@
                     ],
                     "images": [
                         {
-                            "src": "../images/experience/"
+                            "src": "../images/experience/ssap.png"
                         }
                     ],
                     "path": "https://sony-startup-acceleration-program-europe.com/testimonials/"
-                },{
-                    "id": 2,
+                },
+                {
+                    "id": 5,
                     "title": "ICA",
                     "category": "May, 2012 - February, 2017",
                     "texts": [
@@ -568,6 +711,7 @@
                     ],
                     "path": "https://www.ica.se/butiker/nara/goteborg/ica-nara-toppen-goteborg-1712/start/"
                 }
+                
             ]
         },
         {
@@ -577,16 +721,20 @@
             "items": [
                 {
                     "id": 1,
-                    "title": "Six Sigma Green Belt / Project Management"
+                    "title": "Student Representative / Teknikhögskolan"
                 },
                 {
                     "id": 2,
-                    "title": "Building an app with .Net Core and React"
+                    "title": "Six Sigma Green Belt / Project Management"
                 },
                 {
                     "id": 3,
+                    "title": "Building an app with .Net Core and React"
+                },
+                {
+                    "id": 4,
                     "title": "BLU / Business Management"
-                }
+                }                
             ]
         },
         {

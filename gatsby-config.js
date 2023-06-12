@@ -2,8 +2,8 @@ module.exports = {
     pathPrefix: "/portfolio-gatsby",
     siteMetadata: {
         siteUrl: "https://www.fredriklam.com",
-        title: ".NET Developer",
-        description: "I am looking for LIA during week 6-20, 2023-02-06 - 2023-05-21.",
+        title: "Fullstack .NET Developer",
+        description: "I'm actively searching for a workplace to start my career as a developer and to create value for businesses. I'm interested in a fullstack position.",
         author: "",
         siteLanguage: "en",
         image: "banner.jpg",
@@ -20,7 +20,7 @@ module.exports = {
             {
                 id: 2,
                 title: "Linkedin",
-                path: "https://linkedin.com/in/fredriklam/",
+                path: "https://linkedin.com/in/lamfredrik/",
                 icon: "Linkedin",
             }
         ],
