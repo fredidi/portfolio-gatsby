@@ -25,7 +25,7 @@ module.exports = {
             }
         ],
         contact: {
-            phone: "46 704 81 98 93",
+            // phone: "46 704 81 98 93",
             email: "contactme.fredrik@gmail.com",
         },
     },

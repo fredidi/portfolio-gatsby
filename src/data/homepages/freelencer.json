@@ -39,10 +39,10 @@
             "title": "About Me",
             "texts": [
                 {
-                    "content": "I am a Fullstack .NET developer, based in Gothenburg(SE). Currently, looking into Mobile / Smartwatch App Dev."
+                    "content": "I am a Fullstack .NET developer, based in Gothenburg(SE). Currently, I am a freelancer."
                 },
                 {
-                    "content": "I am an entrepreneur who strive to create, develop and add value to the company by always working hard and learn new stuff everyday."
+                    "content": "I am a developer who strive to create, develop and add value to the company by always working hard and learn new stuff everyday."
                 }
             ]
         },
@@ -530,7 +530,25 @@
             "title": "Experience",
             "items": [
                 {
-                    "id": 1,
+                    "id": 10,
+                    "title": "Freelancer",
+                    "category": "August, 2017 - present",
+                    "texts": [
+                        {
+                            "content": "Fullstack Developer & \"Designer\""
+                        },
+                        {
+                            "content": "Helping companies to make better websites."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": ""
+                        }
+                    ],
+                    "path": "#"
+                },{
+                    "id": 9,
                     "title": "Lumeo Technology",
                     "category": "January, 2017 - present",
                     "texts": [
@@ -575,6 +593,28 @@
                 },
                 {
                     "id": 7,
+                    "title": "Guest Lecturer",
+                    "category": "March, 2023",
+                    "texts": [
+                        {
+                            "content": "Speaker / Presenter"
+                        },
+                        {
+                            "content": "Teknikhögskolan requested me to speak infront of a class of students about the proccess of LIA."
+                        },
+                        {
+                            "content": "My main focus was about \"Self-Marketing\", having the mindset to go the extra mile to stand out from the crowd. I also shared my experience and knowledge of how I made through my LIA."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": ""
+                        }
+                    ],
+                    "path": "#"
+                },
+                {
+                    "id": 6,
                     "title": "Jobnet",
                     "category": "February, 2023 - March, 2022",
                     "texts": [
@@ -596,7 +636,7 @@
                     "path": "https://jobnet.se/"
                 },
                 {
-                    "id": 6,
+                    "id": 5,
                     "title": "Nonsultant",
                     "category": "October, 2022 - December, 2022",
                     "texts": [
@@ -621,7 +661,7 @@
                     "path": "https://nonsultant.com/"
                 },
                 {
-                    "id": 2,
+                    "id": 4,
                     "title": "Bemannica",
                     "category": "January, 2021 - February, 2022",
                     "texts": [
@@ -665,7 +705,7 @@
                     "path": "https://www.matoppet.se/butik/furulund/"
                 },
                 {
-                    "id": 4,
+                    "id": 2,
                     "title": "Sony \"SSAP\"",
                     "category": "October, 2019 - December, 2019",
                     "texts": [
@@ -684,7 +724,7 @@
                     "path": "https://sony-startup-acceleration-program-europe.com/testimonials/"
                 },
                 {
-                    "id": 5,
+                    "id": 1,
                     "title": "ICA",
                     "category": "May, 2012 - February, 2017",
                     "texts": [
@@ -711,7 +751,6 @@
                     ],
                     "path": "https://www.ica.se/butiker/nara/goteborg/ica-nara-toppen-goteborg-1712/start/"
                 }
-                
             ]
         },
         {
@@ -734,7 +773,7 @@
                 {
                     "id": 4,
                     "title": "BLU / Business Management"
-                }                
+                }
             ]
         },
         {
@@ -744,8 +783,8 @@
         },
         {
             "id": "freelencer-home-contact",
-            "section": "contact-section",           
-            
+            "section": "contact-section",
+
             "texts": [
                 {
                     "content": "Looking forward to chat with you."
