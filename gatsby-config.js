@@ -1,9 +1,9 @@
 module.exports = {
     pathPrefix: "/portfolio-gatsby",
     siteMetadata: {
-        siteUrl: "https://www.fredriklam.com",
-        title: "Fullstack .NET Developer",
-        description: "I'm actively searching for a workplace to start my career as a developer and to create value for businesses. I'm interested in a fullstack position.",
+        title: ".NET, AI & ML Developer",
+        description:
+            'I\'m looking for a workplace to do my internship/"LIA" between 2025.09.29 (w.40) - 2025.11.21 (w.47)',
         author: "",
         siteLanguage: "en",
         image: "banner.jpg",
@@ -22,7 +22,7 @@ module.exports = {
                 title: "Linkedin",
                 path: "https://linkedin.com/in/lamfredrik/",
                 icon: "Linkedin",
-            }
+            },
         ],
         contact: {
             // phone: "46 704 81 98 93",

@@ -30,7 +30,12 @@
         "react/require-default-props": 0,
         "react-hooks/rules-of-hooks": "error",
         "react-hooks/exhaustive-deps": "warn",
-        "prettier/prettier": "error",
+        "prettier/prettier": [
+            "error",
+            {
+                "endOfLine": "auto"
+            }
+        ],
         "jsx-a11y/label-has-associated-control": [
             "error",
             {

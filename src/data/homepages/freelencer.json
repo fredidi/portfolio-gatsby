@@ -6,12 +6,12 @@
             "section": "hero-section",
             "headings": [
                 {
-                    "content": "Hi, I’m <span>Fredrik</span><br><span class='span'>Fullstack .NET Developer</span>"
+                    "content": "Hi, I’m <span>Fredrik</span><br><span class='span'>.NET, AI & ML Developer</span>"
                 }
             ],
             "texts": [
                 {
-                    "content": "I'm actively searching for a workplace to start my career as a developer and to create value for businesses. I'm interested in a backend or frontend position - or both ^_^"
+                    "content": "I'm looking for a workplace to do my internship/\"LIA\" between 2025.09.29 (w.40) - 2025.11.21 (w.47)"
                 }
             ],
             "images": [
@@ -39,10 +39,10 @@
             "title": "About Me",
             "texts": [
                 {
-                    "content": "I am a Fullstack .NET developer, based in Gothenburg(SE). Currently, I am a freelancer."
+                    "content": "I graduated as a .NET developer in 2023 and this year I wanted to learn more about AI & ML. Currently a student at IT-Högskolan. Click on IT-Högskolan below to see what courses I will study."
                 },
                 {
-                    "content": "I am a developer who strive to create, develop and add value to the company by always working hard and learn new stuff everyday."
+                    "content": "Based in Gothenburg(SE), but open for all opportunities."
                 }
             ]
         },
@@ -56,34 +56,11 @@
                     "title": "Primary Skills on",
                     "items": [
                         {
-                            "id": 1,
+                            "id": 10,
                             "images": [
                                 {
-                                    "src": "../images/icons/CV_Icons-02.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 2,
-                            "images": [
-                                {
-                                    "src": "../images/icons/CV_Icons-03.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 3,
-                            "images": [
-                                {
-                                    "src": "../images/icons/CV_Icons-04.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 4,
-                            "images": [
-                                {
-                                    "src": "../images/icons/icons-16.png"
+                                    "src": "../images/icons/CV_Icons-31.png",
+                                    "alt": "Python"
                                 }
                             ]
                         },
@@ -91,15 +68,8 @@
                             "id": 5,
                             "images": [
                                 {
-                                    "src": "../images/icons/CV_Icons-09.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 6,
-                            "images": [
-                                {
-                                    "src": "../images/icons/CV_Icons-05.png"
+                                    "src": "../images/icons/CV_Icons-09.png",
+                                    "alt": "C#"
                                 }
                             ]
                         },
@@ -107,15 +77,8 @@
                             "id": 7,
                             "images": [
                                 {
-                                    "src": "../images/icons/CV_Icons-08.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 8,
-                            "images": [
-                                {
-                                    "src": "../images/icons/CV_Icons-10.png"
+                                    "src": "../images/icons/CV_Icons-08.png",
+                                    "alt": ".NET"
                                 }
                             ]
                         },
@@ -123,18 +86,69 @@
                             "id": 9,
                             "images": [
                                 {
-                                    "src": "../images/icons/CV_Icons-14.png"
+                                    "src": "../images/icons/CV_Icons-14.png",
+                                    "alt": "Github"
                                 }
                             ]
                         },
                         {
-                            "id": 10,
+                            "id": 8,
                             "images": [
                                 {
-                                    "src": "../images/icons/CV_Icons-19.png"
+                                    "src": "../images/icons/CV_Icons-10.png",
+                                    "alt": "SQL Database"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 1,
+                            "name": "HTML",
+                            "images": [
+                                {
+                                    "src": "../images/icons/CV_Icons-02.png",
+                                    "alt": "HTML",
+                                    "title": "HTML"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "images": [
+                                {
+                                    "src": "../images/icons/CV_Icons-03.png",
+                                    "alt": "CSS"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "images": [
+                                {
+                                    "src": "../images/icons/CV_Icons-04.png",
+                                    "alt": "JavaScript"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "images": [
+                                {
+                                    "src": "../images/icons/icons-16.png",
+                                    "alt": "React.js"
+                                }
+                            ]
+                        },
+                    
+                        {
+                            "id": 6,
+                            "images": [
+                                {
+                                    "src": "../images/icons/CV_Icons-05.png",
+                                    "alt": "TypeScript"
                                 }
                             ]
                         }
+                        
                     ]
                 },
                 {
@@ -142,10 +156,20 @@
                     "title": "Secondary Skills on",
                     "items": [
                         {
+                            "id": 1,
+                            "images": [
+                                {
+                                    "src": "../images/icons/CV_Icons-15.png",
+                                    "alt": "Git"
+                                }
+                            ]
+                        },
+                        {
                             "id": 2,
                             "images": [
                                 {
-                                    "src": "../images/icons/CV_Icons-15.png"
+                                    "src": "../images/icons/CV_Icons-13.png",
+                                    "alt": "GraphQL"
                                 }
                             ]
                         },
@@ -153,7 +177,8 @@
                             "id": 3,
                             "images": [
                                 {
-                                    "src": "../images/icons/CV_Icons-13.png"
+                                    "src": "../images/icons/CV_Icons-11.png",
+                                    "alt": "Postman"
                                 }
                             ]
                         },
@@ -161,7 +186,8 @@
                             "id": 4,
                             "images": [
                                 {
-                                    "src": "../images/icons/CV_Icons-11.png"
+                                    "src": "../images/icons/CV_Icons-12.png",
+                                    "alt": "Blazor"
                                 }
                             ]
                         },
@@ -169,7 +195,8 @@
                             "id": 5,
                             "images": [
                                 {
-                                    "src": "../images/icons/CV_Icons-12.png"
+                                    "src": "../images/icons/CV_Icons-16.png",
+                                    "alt": "Monday"
                                 }
                             ]
                         },
@@ -177,7 +204,8 @@
                             "id": 6,
                             "images": [
                                 {
-                                    "src": "../images/icons/CV_Icons-16.png"
+                                    "src": "../images/icons/CV_Icons-17.png",
+                                    "alt": "Azure"
                                 }
                             ]
                         },
@@ -185,7 +213,8 @@
                             "id": 7,
                             "images": [
                                 {
-                                    "src": "../images/icons/CV_Icons-17.png"
+                                    "src": "../images/icons/CV_Icons-06.png",
+                                    "alt": "Adobe Illustrator"
                                 }
                             ]
                         },
@@ -193,7 +222,8 @@
                             "id": 8,
                             "images": [
                                 {
-                                    "src": "../images/icons/CV_Icons-06.png"
+                                    "src": "../images/icons/icons-04.png",
+                                    "alt": "Adobe Photoshop"
                                 }
                             ]
                         },
@@ -201,15 +231,8 @@
                             "id": 9,
                             "images": [
                                 {
-                                    "src": "../images/icons/icons-04.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 10,
-                            "images": [
-                                {
-                                    "src": "../images/icons/icons-03.png"
+                                    "src": "../images/icons/icons-03.png",
+                                    "alt": "Figma"
                                 }
                             ]
                         }
@@ -223,7 +246,26 @@
             "title": "Education",
             "items": [
                 {
-                    "id": 1,
+                    "id": 6,
+                    "title": "IT-Högskolan",
+                    "category": "2024 - 2026",
+                    "texts": [
+                        {
+                            "content": "Courses:"
+                        },
+                        {
+                            "content": "Introductory course to AI / Programming with Python / Data processing / Linear algebra / Statistical methods / Machine learning / Databases / Data engineering and agile methods / LIA 1 / Deep Machine Learning / LIA 2 / Master thesis."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/education/CV_Logos-03.png"
+                        }
+                    ],
+                    "path": "https://www.teknikhogskolan.se"
+                },
+                {
+                    "id": 5,
                     "title": "Teknikhögskolan",
                     "category": "2021 - 2023",
                     "texts": [
@@ -242,7 +284,7 @@
                     "path": "https://www.teknikhogskolan.se"
                 },
                 {
-                    "id": 2,
+                    "id": 4,
                     "title": "Udemy",
                     "category": "2021 - present",
                     "texts": [
@@ -250,7 +292,7 @@
                             "content": "Online Course"
                         },
                         {
-                            "content": "\"Complete guide to building an app with .Net Core and React\" / \"Notes of Complete guide to building an app ith .Net Core and React\""
+                            "content": "\"Complete guide to building an app with .Net Core and React\" / \"Notes of Complete guide to building an app with .Net Core and React\""
                         }
                     ],
                     "images": [
@@ -269,7 +311,7 @@
                             "content": "Online Course"
                         },
                         {
-                            "content": "\"Notes of Complete guide to building an app ith .Net Core and React\"!"
+                            "content": "\"Notes of Complete guide to building an app with .Net Core and React\"!"
                         }
                     ],
                     "images": [
@@ -280,7 +322,7 @@
                     "path": "https://www.pluralsight.com/"
                 },
                 {
-                    "id": 4,
+                    "id": 2,
                     "title": "ICA Skolan",
                     "category": "2013 - 2014",
                     "texts": [
@@ -302,7 +344,7 @@
                     "path": "https://www.ica.se/butiker/nara/goteborg/ica-nara-toppen-goteborg-1712/start/"
                 },
                 {
-                    "id": 5,
+                    "id": 1,
                     "title": "Göteborgregionens Tekniska Gymnasium",
                     "category": "2009 - 2012",
                     "texts": [
@@ -347,7 +389,7 @@
                     ],
                     "images": [
                         {
-                            "src": "../images/portfolio/dubbelgarden.png"
+                            "src": "../images/portfolio/dubbelgarden-website.png"
                         }
                     ],
                     "path": "#",
@@ -519,7 +561,7 @@
                             "src": "../images/portfolio/"
                         }
                     ],
-                    "path": "https://github.com/ahallerod/Garage",
+                    "path": "https://github.com/fredidi/SchoolProject_Garage",
                     "likeCount": 600
                 }
             ]
@@ -530,9 +572,50 @@
             "title": "Experience",
             "items": [
                 {
+                    "id": 12,
+                    "title": "ICA Kvantum Sannegården",
+                    "category": "October, 2024 - Present",
+                    "texts": [
+                        {
+                            "content": "Retail Sales"
+                        },
+                        {
+                            "content": "I work couple hours per week beside my current studies at ITHS. Mainly stocking shelves and helping customers."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "https://bemannica.se/wp-content/uploads/2018/03/logotyp-retina.png"
+                        }
+                    ],
+                    "path": "https://www.bemannica.se"
+                },
+                {
+                    "id": 11,
+                    "title": "Bemannica",
+                    "category": "November, 2023 - May, 2024",
+                    "texts": [
+                        {
+                            "content": "Retail Sales Consultant."
+                        },
+                        {
+                            "content": "Bemannica is a modern staffing and recruitment company that helps ICA stores with tailored expertise."
+                        },
+                        {
+                            "content": "I re-joined the consultant-team of Bemannica. I got offered different stores to work for both in Gothenburg as well as a bit outside the area. To mention some areas I got to work with: Cashier, Put items on the shelf, Customer-Service."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "https://bemannica.se/wp-content/uploads/2018/03/logotyp-retina.png"
+                        }
+                    ],
+                    "path": "https://www.bemannica.se"
+                },
+                {
                     "id": 10,
                     "title": "Freelancer",
-                    "category": "August, 2017 - present",
+                    "category": "August, 2023 - May, 2024",
                     "texts": [
                         {
                             "content": "Fullstack Developer & \"Designer\""
@@ -547,28 +630,8 @@
                         }
                     ],
                     "path": "#"
-                },{
-                    "id": 9,
-                    "title": "Lumeo Technology",
-                    "category": "January, 2017 - present",
-                    "texts": [
-                        {
-                            "content": "Co-Founder. Operative Inactive."
-                        },
-                        {
-                            "content": "To mention some areas I got to work with: Accounting, B2B/B2C Sales, E-commerce, Legal, Marketing, Visual Content, Multiple e-commerce sites etc.."
-                        },
-                        {
-                            "content": "The company is still going strong with Leo who co-founded the company. Currently, he is working together with our co-workers and partners."
-                        }
-                    ],
-                    "images": [
-                        {
-                            "src": "../images/experience/lumeotech.png"
-                        }
-                    ],
-                    "path": "https://www.lumeotech.com"
                 },
+                
                 {
                     "id": 8,
                     "title": "HiQ",
@@ -663,7 +726,7 @@
                 {
                     "id": 4,
                     "title": "Bemannica",
-                    "category": "January, 2021 - February, 2022",
+                    "category": "May, 2021 - December, 2021",
                     "texts": [
                         {
                             "content": "Retail Sales Consultant."
@@ -683,9 +746,31 @@
                     "path": "https://www.bemannica.se"
                 },
                 {
+                    "id": 9,
+                    "title": "Lumeo Technology",
+                    "category": "January, 2017 - May 2021",
+                    "texts": [
+                        {
+                            "content": "Co-Founder. Company still up-running."
+                        },
+                        {
+                            "content": "To mention some areas I got to work with: Accounting, B2B/B2C Sales, E-commerce, Legal, Marketing, Visual Content, Multiple e-commerce sites etc.."
+                        },
+                        {
+                            "content": "The company is still going strong with Leo who co-founded the company. Currently, he is working together with our co-workers and partners."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/experience/lumeotech.png"
+                        }
+                    ],
+                    "path": "https://www.lumeotech.com"
+                },
+                {
                     "id": 3,
                     "title": "Matöppet",
-                    "category": "June, 2020 - September, 2022",
+                    "category": "June, 2020 - September, 2020",
                     "texts": [
                         {
                             "content": "Substitute Store Manager"
@@ -725,7 +810,7 @@
                 },
                 {
                     "id": 1,
-                    "title": "ICA",
+                    "title": "ICA Nära Toppen",
                     "category": "May, 2012 - February, 2017",
                     "texts": [
                         {

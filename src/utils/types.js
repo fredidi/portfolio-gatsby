@@ -6,6 +6,7 @@ export const ImageType = {
     src: PropTypes.oneOfType([PropTypes.string, PropTypes.shape({})])
         .isRequired,
     alt: PropTypes.string,
+    slug: PropTypes.string,
 };
 
 export const HeadingType = {
