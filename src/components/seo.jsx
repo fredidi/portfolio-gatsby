@@ -34,7 +34,7 @@ const SEO = ({
     const template = titleTemplate || site.siteMetadata.titleTemplate;
     const metaDescription = description || site.siteMetadata.description;
     const language = site.siteMetadata.siteLanguage;
-    const siteUrl = site.siteMetadata.siteUrl.replace(/\/$/, "");
+    const siteUrl = site?.siteMetadata?.siteUrl?.replace(/\/$/, "") || "";
     const bannerImage =
         metaImage && metaImage.src
             ? `${siteUrl}/${metaImage.src}`

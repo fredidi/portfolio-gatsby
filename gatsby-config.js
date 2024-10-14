@@ -1,9 +1,10 @@
 module.exports = {
     pathPrefix: "/portfolio-gatsby",
     siteMetadata: {
+        siteUrl: "https://fredidi.github.io/portfolio-gatsby/",
         title: ".NET, AI & ML Developer",
         description:
-            'I\'m looking for a workplace to do my internship/"LIA" between 2025.09.29 (w.40) - 2025.11.21 (w.47)',
+            'I\'m looking for a workplace to do my internship/"LIA" between 2025.09.29 (w.40) - 2025.11.21 (w.47).',
         author: "",
         siteLanguage: "en",
         image: "banner.jpg",
