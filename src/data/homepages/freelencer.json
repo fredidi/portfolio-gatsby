@@ -247,6 +247,28 @@
             "items": [
                 {
                     "id": 6,
+                    "title": "Pluralsight",
+                    "category": "2024 - present",
+                    "texts": [
+                        {
+                            "content": "Online Course"
+                        },
+                        {
+                            "content": "\"Python 3 Fundamentals\""
+                        },
+                        {
+                            "content": "\"Developing .NET Core 5 Apps with Docker\""
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/education/pluralsight.jpg"
+                        }
+                    ],
+                    "path": "https://www.pluralsight.com/"
+                },
+                {
+                    "id": 5,
                     "title": "IT-Högskolan",
                     "category": "2024 - 2026",
                     "texts": [
@@ -262,10 +284,10 @@
                             "src": "../images/education/CV_Logos-03.png"
                         }
                     ],
-                    "path": "https://www.teknikhogskolan.se"
+                    "path": "https://www.iths.se"
                 },
                 {
-                    "id": 5,
+                    "id": 4,
                     "title": "Teknikhögskolan",
                     "category": "2021 - 2023",
                     "texts": [
@@ -284,7 +306,7 @@
                     "path": "https://www.teknikhogskolan.se"
                 },
                 {
-                    "id": 4,
+                    "id": 3,
                     "title": "Udemy",
                     "category": "2021 - present",
                     "texts": [
@@ -301,25 +323,6 @@
                         }
                     ],
                     "path": "https://www.udemy.com/"
-                },
-                {
-                    "id": 3,
-                    "title": "Pluralsight",
-                    "category": "2021 - present",
-                    "texts": [
-                        {
-                            "content": "Online Course"
-                        },
-                        {
-                            "content": "\"Notes of Complete guide to building an app with .Net Core and React\"!"
-                        }
-                    ],
-                    "images": [
-                        {
-                            "src": "../images/education/pluralsight.jpg"
-                        }
-                    ],
-                    "path": "https://www.pluralsight.com/"
                 },
                 {
                     "id": 2,
@@ -585,10 +588,10 @@
                     ],
                     "images": [
                         {
-                            "src": "https://bemannica.se/wp-content/uploads/2018/03/logotyp-retina.png"
+                            "src": "../images/experience/sannegarden.png"
                         }
                     ],
-                    "path": "https://www.bemannica.se"
+                    "path": "https://www.ica.se/butiker/kvantum/goteborg/ica-kvantum-sannegarden-1004293/"
                 },
                 {
                     "id": 11,
@@ -607,7 +610,7 @@
                     ],
                     "images": [
                         {
-                            "src": "https://bemannica.se/wp-content/uploads/2018/03/logotyp-retina.png"
+                            "src": "../images/experience/bemannica.png"
                         }
                     ],
                     "path": "https://www.bemannica.se"
@@ -649,7 +652,7 @@
                     ],
                     "images": [
                         {
-                            "src": "../images/experience/hiq.png"
+                            "src": "../images/experience/hiq2.png"
                         }
                     ],
                     "path": "https://hiq.se/"
@@ -740,7 +743,7 @@
                     ],
                     "images": [
                         {
-                            "src": "https://bemannica.se/wp-content/uploads/2018/03/logotyp-retina.png"
+                            "src": "../images/experience/bemannica.png"
                         }
                     ],
                     "path": "https://www.bemannica.se"
